@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Nova player AI",
+  "description": "A high-performance, AI-enhanced video player featuring gesture controls, playlist management, and Gemini-powered scene analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
